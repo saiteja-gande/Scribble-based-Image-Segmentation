@@ -1,0 +1,207 @@
+Input image shape (506, 759, 3)
+Input image shape (506, 759, 3)
+Input image shape (506, 759, 3)
+Total data shape for primary Network:  (20935, 5)
+Adjusting learning rate of group 0 to 1.0000e-05.
+Adjusting learning rate of group 0 to 9.9901e-06.
+Epoch [1/50] - Train Loss: 0.6373 - Val Loss: 0.5660 - Val Accuracy: 0.8438
+Adjusting learning rate of group 0 to 9.9606e-06.
+Epoch [2/50] - Train Loss: 0.4892 - Val Loss: 0.4206 - Val Accuracy: 0.8438
+Adjusting learning rate of group 0 to 9.9114e-06.
+Epoch [3/50] - Train Loss: 0.4103 - Val Loss: 0.3703 - Val Accuracy: 0.8438
+Adjusting learning rate of group 0 to 9.8429e-06.
+Epoch [4/50] - Train Loss: 0.3499 - Val Loss: 0.2968 - Val Accuracy: 0.8438
+Adjusting learning rate of group 0 to 9.7553e-06.
+Epoch [5/50] - Train Loss: 0.2673 - Val Loss: 0.2190 - Val Accuracy: 0.8834
+Adjusting learning rate of group 0 to 9.6489e-06.
+Epoch [6/50] - Train Loss: 0.2027 - Val Loss: 0.1708 - Val Accuracy: 0.9682
+Adjusting learning rate of group 0 to 9.5241e-06.
+Epoch [7/50] - Train Loss: 0.1635 - Val Loss: 0.1386 - Val Accuracy: 0.9759
+Adjusting learning rate of group 0 to 9.3815e-06.
+Epoch [8/50] - Train Loss: 0.1351 - Val Loss: 0.1146 - Val Accuracy: 0.9795
+Adjusting learning rate of group 0 to 9.2216e-06.
+Epoch [9/50] - Train Loss: 0.1139 - Val Loss: 0.0974 - Val Accuracy: 0.9818
+Adjusting learning rate of group 0 to 9.0451e-06.
+Epoch [10/50] - Train Loss: 0.0987 - Val Loss: 0.0849 - Val Accuracy: 0.9842
+Adjusting learning rate of group 0 to 8.8526e-06.
+Epoch [11/50] - Train Loss: 0.0873 - Val Loss: 0.0753 - Val Accuracy: 0.9869
+Adjusting learning rate of group 0 to 8.6448e-06.
+Epoch [12/50] - Train Loss: 0.0778 - Val Loss: 0.0675 - Val Accuracy: 0.9881
+Adjusting learning rate of group 0 to 8.4227e-06.
+Epoch [13/50] - Train Loss: 0.0700 - Val Loss: 0.0607 - Val Accuracy: 0.9893
+Adjusting learning rate of group 0 to 8.1871e-06.
+Epoch [14/50] - Train Loss: 0.0631 - Val Loss: 0.0550 - Val Accuracy: 0.9909
+Adjusting learning rate of group 0 to 7.9389e-06.
+Epoch [15/50] - Train Loss: 0.0570 - Val Loss: 0.0496 - Val Accuracy: 0.9938
+Adjusting learning rate of group 0 to 7.6791e-06.
+Epoch [16/50] - Train Loss: 0.0513 - Val Loss: 0.0449 - Val Accuracy: 0.9943
+Adjusting learning rate of group 0 to 7.4088e-06.
+Epoch [17/50] - Train Loss: 0.0462 - Val Loss: 0.0405 - Val Accuracy: 0.9943
+Adjusting learning rate of group 0 to 7.1289e-06.
+Epoch [18/50] - Train Loss: 0.0414 - Val Loss: 0.0365 - Val Accuracy: 0.9945
+Adjusting learning rate of group 0 to 6.8406e-06.
+Epoch [19/50] - Train Loss: 0.0370 - Val Loss: 0.0328 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 6.5451e-06.
+Epoch [20/50] - Train Loss: 0.0331 - Val Loss: 0.0297 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 6.2434e-06.
+Epoch [21/50] - Train Loss: 0.0297 - Val Loss: 0.0270 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 5.9369e-06.
+Epoch [22/50] - Train Loss: 0.0267 - Val Loss: 0.0248 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 5.6267e-06.
+Epoch [23/50] - Train Loss: 0.0242 - Val Loss: 0.0228 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 5.3140e-06.
+Epoch [24/50] - Train Loss: 0.0221 - Val Loss: 0.0213 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 5.0000e-06.
+Epoch [25/50] - Train Loss: 0.0203 - Val Loss: 0.0201 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 4.6860e-06.
+Epoch [26/50] - Train Loss: 0.0187 - Val Loss: 0.0189 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 4.3733e-06.
+Epoch [27/50] - Train Loss: 0.0175 - Val Loss: 0.0182 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 4.0631e-06.
+Epoch [28/50] - Train Loss: 0.0167 - Val Loss: 0.0176 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 3.7566e-06.
+Epoch [29/50] - Train Loss: 0.0160 - Val Loss: 0.0172 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 3.4549e-06.
+Epoch [30/50] - Train Loss: 0.0155 - Val Loss: 0.0167 - Val Accuracy: 0.9943
+Adjusting learning rate of group 0 to 3.1594e-06.
+Epoch [31/50] - Train Loss: 0.0150 - Val Loss: 0.0165 - Val Accuracy: 0.9943
+Adjusting learning rate of group 0 to 2.8711e-06.
+Epoch [32/50] - Train Loss: 0.0147 - Val Loss: 0.0162 - Val Accuracy: 0.9943
+Adjusting learning rate of group 0 to 2.5912e-06.
+Epoch [33/50] - Train Loss: 0.0144 - Val Loss: 0.0159 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 2.3209e-06.
+Epoch [34/50] - Train Loss: 0.0141 - Val Loss: 0.0158 - Val Accuracy: 0.9945
+Adjusting learning rate of group 0 to 2.0611e-06.
+Epoch [35/50] - Train Loss: 0.0139 - Val Loss: 0.0156 - Val Accuracy: 0.9945
+Adjusting learning rate of group 0 to 1.8129e-06.
+Epoch [36/50] - Train Loss: 0.0137 - Val Loss: 0.0153 - Val Accuracy: 0.9943
+Adjusting learning rate of group 0 to 1.5773e-06.
+Epoch [37/50] - Train Loss: 0.0135 - Val Loss: 0.0153 - Val Accuracy: 0.9945
+Adjusting learning rate of group 0 to 1.3552e-06.
+Epoch [38/50] - Train Loss: 0.0134 - Val Loss: 0.0151 - Val Accuracy: 0.9943
+Adjusting learning rate of group 0 to 1.1474e-06.
+Epoch [39/50] - Train Loss: 0.0133 - Val Loss: 0.0150 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 9.5492e-07.
+Epoch [40/50] - Train Loss: 0.0132 - Val Loss: 0.0150 - Val Accuracy: 0.9945
+Adjusting learning rate of group 0 to 7.7836e-07.
+Epoch [41/50] - Train Loss: 0.0131 - Val Loss: 0.0149 - Val Accuracy: 0.9945
+Adjusting learning rate of group 0 to 6.1847e-07.
+Epoch [42/50] - Train Loss: 0.0131 - Val Loss: 0.0148 - Val Accuracy: 0.9943
+Adjusting learning rate of group 0 to 4.7586e-07.
+Epoch [43/50] - Train Loss: 0.0130 - Val Loss: 0.0148 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 3.5112e-07.
+Epoch [44/50] - Train Loss: 0.0130 - Val Loss: 0.0148 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 2.4472e-07.
+Epoch [45/50] - Train Loss: 0.0130 - Val Loss: 0.0148 - Val Accuracy: 0.9943
+Adjusting learning rate of group 0 to 1.5708e-07.
+Epoch [46/50] - Train Loss: 0.0129 - Val Loss: 0.0147 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 8.8564e-08.
+Epoch [47/50] - Train Loss: 0.0129 - Val Loss: 0.0147 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 3.9426e-08.
+Epoch [48/50] - Train Loss: 0.0129 - Val Loss: 0.0147 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 9.8664e-09.
+Epoch [49/50] - Train Loss: 0.0129 - Val Loss: 0.0147 - Val Accuracy: 0.9940
+Adjusting learning rate of group 0 to 0.0000e+00.
+Epoch [50/50] - Train Loss: 0.0129 - Val Loss: 0.0147 - Val Accuracy: 0.9940
+size of data:  384054
+Adjusting learning rate of group 0 to 1.0000e-05.
+Adjusting learning rate of group 0 to 9.9901e-06.
+Epoch [1/50] - Train Loss: 0.2257 - Val Loss: 0.1664 - Val Accuracy: 0.9445
+Adjusting learning rate of group 0 to 9.9606e-06.
+Epoch [2/50] - Train Loss: 0.1274 - Val Loss: 0.0844 - Val Accuracy: 0.9615
+Adjusting learning rate of group 0 to 9.9114e-06.
+Epoch [3/50] - Train Loss: 0.0664 - Val Loss: 0.0557 - Val Accuracy: 0.9826
+Adjusting learning rate of group 0 to 9.8429e-06.
+Epoch [4/50] - Train Loss: 0.0567 - Val Loss: 0.0489 - Val Accuracy: 0.9858
+Adjusting learning rate of group 0 to 9.7553e-06.
+Epoch [5/50] - Train Loss: 0.0525 - Val Loss: 0.0464 - Val Accuracy: 0.9866
+Adjusting learning rate of group 0 to 9.6489e-06.
+Epoch [6/50] - Train Loss: 0.0507 - Val Loss: 0.0453 - Val Accuracy: 0.9868
+Adjusting learning rate of group 0 to 9.5241e-06.
+Epoch [7/50] - Train Loss: 0.0497 - Val Loss: 0.0443 - Val Accuracy: 0.9874
+Adjusting learning rate of group 0 to 9.3815e-06.
+Epoch [8/50] - Train Loss: 0.0489 - Val Loss: 0.0439 - Val Accuracy: 0.9873
+Adjusting learning rate of group 0 to 9.2216e-06.
+Epoch [9/50] - Train Loss: 0.0484 - Val Loss: 0.0434 - Val Accuracy: 0.9877
+Adjusting learning rate of group 0 to 9.0451e-06.
+Epoch [10/50] - Train Loss: 0.0480 - Val Loss: 0.0434 - Val Accuracy: 0.9873
+Adjusting learning rate of group 0 to 8.8526e-06.
+Epoch [11/50] - Train Loss: 0.0476 - Val Loss: 0.0425 - Val Accuracy: 0.9882
+Adjusting learning rate of group 0 to 8.6448e-06.
+Epoch [12/50] - Train Loss: 0.0473 - Val Loss: 0.0429 - Val Accuracy: 0.9875
+Adjusting learning rate of group 0 to 8.4227e-06.
+Epoch [13/50] - Train Loss: 0.0470 - Val Loss: 0.0420 - Val Accuracy: 0.9883
+Adjusting learning rate of group 0 to 8.1871e-06.
+Epoch [14/50] - Train Loss: 0.0468 - Val Loss: 0.0419 - Val Accuracy: 0.9882
+Adjusting learning rate of group 0 to 7.9389e-06.
+Epoch [15/50] - Train Loss: 0.0465 - Val Loss: 0.0416 - Val Accuracy: 0.9882
+Adjusting learning rate of group 0 to 7.6791e-06.
+Epoch [16/50] - Train Loss: 0.0463 - Val Loss: 0.0413 - Val Accuracy: 0.9886
+Adjusting learning rate of group 0 to 7.4088e-06.
+Epoch [17/50] - Train Loss: 0.0460 - Val Loss: 0.0411 - Val Accuracy: 0.9886
+Adjusting learning rate of group 0 to 7.1289e-06.
+Epoch [18/50] - Train Loss: 0.0458 - Val Loss: 0.0408 - Val Accuracy: 0.9888
+Adjusting learning rate of group 0 to 6.8406e-06.
+Epoch [19/50] - Train Loss: 0.0456 - Val Loss: 0.0409 - Val Accuracy: 0.9887
+Adjusting learning rate of group 0 to 6.5451e-06.
+Epoch [20/50] - Train Loss: 0.0454 - Val Loss: 0.0405 - Val Accuracy: 0.9891
+Adjusting learning rate of group 0 to 6.2434e-06.
+Epoch [21/50] - Train Loss: 0.0452 - Val Loss: 0.0404 - Val Accuracy: 0.9890
+Adjusting learning rate of group 0 to 5.9369e-06.
+Epoch [22/50] - Train Loss: 0.0450 - Val Loss: 0.0401 - Val Accuracy: 0.9890
+Adjusting learning rate of group 0 to 5.6267e-06.
+Epoch [23/50] - Train Loss: 0.0449 - Val Loss: 0.0400 - Val Accuracy: 0.9890
+Adjusting learning rate of group 0 to 5.3140e-06.
+Epoch [24/50] - Train Loss: 0.0447 - Val Loss: 0.0399 - Val Accuracy: 0.9891
+Adjusting learning rate of group 0 to 5.0000e-06.
+Epoch [25/50] - Train Loss: 0.0446 - Val Loss: 0.0398 - Val Accuracy: 0.9891
+Adjusting learning rate of group 0 to 4.6860e-06.
+Epoch [26/50] - Train Loss: 0.0445 - Val Loss: 0.0399 - Val Accuracy: 0.9890
+Adjusting learning rate of group 0 to 4.3733e-06.
+Epoch [27/50] - Train Loss: 0.0443 - Val Loss: 0.0395 - Val Accuracy: 0.9892
+Adjusting learning rate of group 0 to 4.0631e-06.
+Epoch [28/50] - Train Loss: 0.0442 - Val Loss: 0.0397 - Val Accuracy: 0.9891
+Adjusting learning rate of group 0 to 3.7566e-06.
+Epoch [29/50] - Train Loss: 0.0441 - Val Loss: 0.0394 - Val Accuracy: 0.9890
+Adjusting learning rate of group 0 to 3.4549e-06.
+Epoch [30/50] - Train Loss: 0.0441 - Val Loss: 0.0392 - Val Accuracy: 0.9892
+Adjusting learning rate of group 0 to 3.1594e-06.
+Epoch [31/50] - Train Loss: 0.0440 - Val Loss: 0.0392 - Val Accuracy: 0.9893
+Adjusting learning rate of group 0 to 2.8711e-06.
+Epoch [32/50] - Train Loss: 0.0439 - Val Loss: 0.0391 - Val Accuracy: 0.9895
+Adjusting learning rate of group 0 to 2.5912e-06.
+Epoch [33/50] - Train Loss: 0.0438 - Val Loss: 0.0390 - Val Accuracy: 0.9893
+Adjusting learning rate of group 0 to 2.3209e-06.
+Epoch [34/50] - Train Loss: 0.0438 - Val Loss: 0.0390 - Val Accuracy: 0.9893
+Adjusting learning rate of group 0 to 2.0611e-06.
+Epoch [35/50] - Train Loss: 0.0437 - Val Loss: 0.0389 - Val Accuracy: 0.9894
+Adjusting learning rate of group 0 to 1.8129e-06.
+Epoch [36/50] - Train Loss: 0.0437 - Val Loss: 0.0389 - Val Accuracy: 0.9893
+Adjusting learning rate of group 0 to 1.5773e-06.
+Epoch [37/50] - Train Loss: 0.0436 - Val Loss: 0.0389 - Val Accuracy: 0.9894
+Adjusting learning rate of group 0 to 1.3552e-06.
+Epoch [38/50] - Train Loss: 0.0436 - Val Loss: 0.0389 - Val Accuracy: 0.9894
+Adjusting learning rate of group 0 to 1.1474e-06.
+Epoch [39/50] - Train Loss: 0.0436 - Val Loss: 0.0388 - Val Accuracy: 0.9894
+Adjusting learning rate of group 0 to 9.5492e-07.
+Epoch [40/50] - Train Loss: 0.0435 - Val Loss: 0.0389 - Val Accuracy: 0.9892
+Adjusting learning rate of group 0 to 7.7836e-07.
+Epoch [41/50] - Train Loss: 0.0435 - Val Loss: 0.0389 - Val Accuracy: 0.9891
+Adjusting learning rate of group 0 to 6.1847e-07.
+Epoch [42/50] - Train Loss: 0.0435 - Val Loss: 0.0388 - Val Accuracy: 0.9894
+Adjusting learning rate of group 0 to 4.7586e-07.
+Epoch [43/50] - Train Loss: 0.0435 - Val Loss: 0.0387 - Val Accuracy: 0.9894
+Adjusting learning rate of group 0 to 3.5112e-07.
+Epoch [44/50] - Train Loss: 0.0434 - Val Loss: 0.0387 - Val Accuracy: 0.9894
+Adjusting learning rate of group 0 to 2.4472e-07.
+Epoch [45/50] - Train Loss: 0.0434 - Val Loss: 0.0387 - Val Accuracy: 0.9894
+Adjusting learning rate of group 0 to 1.5708e-07.
+Epoch [46/50] - Train Loss: 0.0434 - Val Loss: 0.0387 - Val Accuracy: 0.9894
+Adjusting learning rate of group 0 to 8.8564e-08.
+Epoch [47/50] - Train Loss: 0.0434 - Val Loss: 0.0387 - Val Accuracy: 0.9894
+Adjusting learning rate of group 0 to 3.9426e-08.
+Epoch [48/50] - Train Loss: 0.0434 - Val Loss: 0.0387 - Val Accuracy: 0.9894
+Adjusting learning rate of group 0 to 9.8664e-09.
+Epoch [49/50] - Train Loss: 0.0434 - Val Loss: 0.0387 - Val Accuracy: 0.9894
+Adjusting learning rate of group 0 to 0.0000e+00.
+Epoch [50/50] - Train Loss: 0.0434 - Val Loss: 0.0387 - Val Accuracy: 0.9894

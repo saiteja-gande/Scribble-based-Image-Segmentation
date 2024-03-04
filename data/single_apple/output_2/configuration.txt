@@ -1,0 +1,9 @@
+Input Path: data/single_apple/
+Primary Model: segmentationnet
+Segmentation Model: PSPNet
+Segmentation Net Epochs: 50
+Segmentation Net Learning Rate: 0.0001
+Convex Net Batch Size: 64
+Convex Net Epochs: 50
+Convex Net Learning Rate: 1e-05
+Convex Net Hidden Units: 128

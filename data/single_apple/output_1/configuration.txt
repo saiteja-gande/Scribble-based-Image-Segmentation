@@ -1,0 +1,10 @@
+Input Path: data/single_apple/
+Primary Model: neuralnet
+Neural Net Batch Size: 64
+Neural Net Epochs: 50
+Neural Net Learning Rate: 1e-05
+Neural Net Hidden Units: 256
+Convex Net Batch Size: 64
+Convex Net Epochs: 50
+Convex Net Learning Rate: 1e-05
+Convex Net Hidden Units: 128
