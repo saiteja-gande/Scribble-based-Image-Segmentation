@@ -71,8 +71,7 @@ For changing the default arguments follow the below instructions:
     Batch size, epochs, learning rate, hidden units are some of the convex net parameters that can be altered through command line.
     
     `python main.py -pm neuralnet -nnbs 64 -nne 100 -nnlr 0.00001 -nnhu 256 -cnbs 64 -cne 50 -cnlr 0.00001 -cnhu 256`
-                                                
-    # or
+   
 
     `python main.py -pm segmentationnet -snbs 64 -sne 100 -snlr 0.0001 -cnbs 64 -cne 50 -cnlr 0.00001 -cnhu 256`
 
